@@ -1,0 +1,53 @@
+body {
+    background: lightblue;
+    font-family: font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+h1 {
+    text-align:center;
+}
+
+header {
+    background: lightblue;
+    text-align: center;
+    font-size: 160%;
+}
+
+.gifyDiv {
+    float: left;
+    margin: .8%;
+}
+section {
+    background: lightblue;
+    font-size: 120%
+}
+
+button {
+    border-radius: 12px;
+    word-wrap: break-word;
+    margin: 1%;
+}
+
+#addAnimal {
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: gray;
+}
+#addAnimal:hover {
+    background-color: gray;
+}
+.row {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+    clear: both;
+}
+
+#display {
+    font-size: 140%;
+}
